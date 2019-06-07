@@ -2,7 +2,7 @@
 
 Ever wondered how to started with contributing to a GitHub project? This is the place for you.
 
-[tldr](##TLDR)
+[tldr](#tldr)
 
 ## Step-by-Step
 
